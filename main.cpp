@@ -139,7 +139,7 @@ void Update()
         bx = 0.0;
         //Reversing the direction after collision
         speedX *= -1.0;
-        score.x += 100;
+        score.x += 25;
 
         // Resetting
         Reset();
@@ -149,7 +149,7 @@ void Update()
     {
         bx = WIDTH*1.0-ball.w;
         speedX *= -1.0;
-        score.x -= 100;
+        score.x -= 25;
 
         // Resetting
         Reset();

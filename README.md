@@ -7,3 +7,8 @@
  
 2. Run the main.cpp file
 3. Enjoy!
+
+
+GAME CONTROLS:
+  Press 'r' to restart.
+  Press 'p' to pause.
